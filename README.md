@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/amit-talole](https://github.com/amit-talole)
 
-- 📫 How to reach me **+919764569473**
+- 📫 How to reach me **talole84@gmail.com** , **+919764569473**
 
 - 📄 Know about my experiences [Resume](https://amit-portfolio.s3.ap-south-1.amazonaws.com/resume/1673723667_99.Amit%27s%20Resume%20%281%29)
 
