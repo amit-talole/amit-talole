@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://www.instagram.com/amit_talole_/" target="blank"><img align="center" src="https://en.wikipedia.org/wiki/Instagram#/media/File:Instagram_logo_2022.svg" alt="amit_talole" height="30" width="40" /></a>
-<a href="https://in.linkedin.com/in/amit-talole-670031184" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="shivanandasai" height="30" width="40" /></a>
+<a href="https://www.instagram.com/amit_talole_/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="amit_talole" height="30" width="40" /></a>
+<a href="https://in.linkedin.com/in/amit-talole-670031184" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="amit-talole" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
