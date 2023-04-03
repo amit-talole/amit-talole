@@ -24,6 +24,7 @@
   <tr>
     <td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit-talole&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="amit-talole" /></td>
     <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amit-talole&theme=dark" alt="amit-talole" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=amit-talole&show_icons=true&theme=dark&locale=en" alt="amit-talole" /></td>
   </tr>
 </table>
 
