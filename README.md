@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit Talole</h1>
 <h2 align="center">An Enthusiastic Full Stack Development Professional</h2>
-<h4 align="center">I am a Full Stack developer with more than 1.5 years of experience in developing and delivering high-quality web applications. </br> My goal is to create visually appealing and user-friendly web pages that offer seamless navigation and excellent performance.
+<h4 align="center">I am a Full Stack developer with more than 2+ years of experience in developing and delivering high-quality web applications. </br> My goal is to create visually appealing and user-friendly web pages that offer seamless navigation and excellent performance.
 </h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amit-talole&label=Profile%20views&color=green&style=flat" alt="ssk090" /> </p>
